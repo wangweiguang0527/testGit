@@ -1,0 +1,9 @@
+E:\项目\MapSpotCheckProgram\MapSpotCheckProgram\bin\Debug\MapSpotCheckProgram.exe
+E:\项目\MapSpotCheckProgram\MapSpotCheckProgram\bin\Debug\MapSpotCheckProgram.pdb
+E:\项目\MapSpotCheckProgram\MapSpotCheckProgram\obj\Debug\MapSpotCheckProgram.csprojResolveAssemblyReference.cache
+E:\项目\MapSpotCheckProgram\MapSpotCheckProgram\obj\Debug\MapSpotCheckProgram.Form1.resources
+E:\项目\MapSpotCheckProgram\MapSpotCheckProgram\obj\Debug\MapSpotCheckProgram.Properties.Resources.resources
+E:\项目\MapSpotCheckProgram\MapSpotCheckProgram\obj\Debug\MapSpotCheckProgram.csproj.GenerateResource.Cache
+E:\项目\MapSpotCheckProgram\MapSpotCheckProgram\obj\Debug\MapSpotCheckProgram.exe.licenses
+E:\项目\MapSpotCheckProgram\MapSpotCheckProgram\obj\Debug\MapSpotCheckProgram.exe
+E:\项目\MapSpotCheckProgram\MapSpotCheckProgram\obj\Debug\MapSpotCheckProgram.pdb
